@@ -13,13 +13,19 @@ body {
 
 header {
   border: 2px solid #503eee;
+  margin-top: 10px;
 }
 
 main {
   border: 2px solid #117e29;
 }
 
+section {
+  border: 2px dotted #b62029;
+}
+
 footer {
   border: 2px solid #b16a17;
   text-align: center;
+  margin-bottom: 20px;
 }
